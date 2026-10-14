@@ -1,0 +1,4 @@
+nire_ingurunea/
+venv/
+__pycache__/
+*.pyc
